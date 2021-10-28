@@ -30,6 +30,9 @@
 
 _A simple app where you can add a task, check it as completed and delete it from your database_
 
+This is a really small and simple app, that's why I chose to include the backend files in the frontend folder. I know that this is not the ideal, but as I said before, the size of the project justify the oportunity to have all in one repository.
+_Thanks for your understanding!_
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
